@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fatakolkata.github.io/Kolkata-Fatafat-Tips-Apps-Kolkata-FF-Ghosh-Babu/sitemap.xml
