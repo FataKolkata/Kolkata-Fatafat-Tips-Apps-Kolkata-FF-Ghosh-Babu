@@ -1,36 +1,16 @@
-# Welcome to Remix + Vite!
+# Kolkata FF Tips – Live Results & Free VIP Tips  
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+[Kolkata FF](https://kolkataff.app) is a popular lottery-style game in Kolkata where players predict numbers to win exciting rewards. Our **Kolkata FF Tips App** provides **real-time today’s results**, **expert predictions**, and **historical data analysis** to improve your chances.  
 
-## Development
+## 🔥 Features  
+✅ **Kolkata FF Today Result** – Get the latest updates in real time.  
+✅ **Ghos Babu Free VIP Tips** – Expert tips powered by Ghosa Babu API.  
+✅ **Live Kolkata FF Result API** – Real-time result updates for better accuracy.  
+✅ **AI-Powered Predictions** – Smart analysis based on past results.  
+✅ **Historical Results Data** – Check past game trends for better strategy.  
 
-Run the Vite dev server:
+## 🎯 About Kolkata FF  
+Kolkata FF is a well-known lottery game where numbers are predicted to win cash prizes. The game has multiple rounds throughout the day, and winning requires skill, luck, and strategic predictions.  
 
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
+## 🌐 Visit Now  
+Get real-time results and expert tips at **[KolkataFF.app](https://kolkataff.app)**!  
