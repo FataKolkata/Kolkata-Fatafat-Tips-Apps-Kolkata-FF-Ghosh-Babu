@@ -1,6 +1,8 @@
-# 🎯 Kolkata FF Tips App – Live Results, Ghosh Babu, AI Predictions & Expert Tips
+# ❤️ Kolkata FF Tips App – Live Result, Ghosh Babu, AI Predictions & Expert Tips
 
 ## 🚀 [Live Demo – Today 05 Mar 2025 Live Result](https://kolkataff.app) 🚀
+
+![Kolkata FF Large](https://kolkataff.app/images/kolkata-ff-large.webp)
 
 Kolkata FF Tips App is a modern web application designed to provide real-time results, expert tips, and AI-driven predictions for Kolkata FF Result Tips, Kolkata Fatafat VIP, and more. Built with Fastify and Remix, this app delivers a high-performance and scalable solution. It integrates Ghos Babu's VIP Tips API and a Live Result API, ensuring users receive the most accurate updates instantly.
 
@@ -21,6 +23,8 @@ Kolkata FF Tips App is a modern web application designed to provide real-time re
 ✅ Responsive Design – Optimized for all screen sizes and devices.
 
 ## 🔥 Ghosh Babu Tips – Your Ultimate Guide to Winning Kolkata FF
+![Ghosh Babu Tips](https://kolkataff.app/images/ghosh-babu-tips-large.webp)
+
 Ghosh Babu Tips are renowned in the Kolkata FF community for their accuracy and reliability. With years of experience and a deep understanding of the game, Ghosh Babu provides VIP tips that help players make informed decisions and increase their chances of winning.
 
 ### Why Trust Ghosh Babu Tips?
