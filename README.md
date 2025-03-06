@@ -1,6 +1,6 @@
 # ❤️ Kolkata FF Tips App – Live Result, Ghosh Babu, AI Predictions & Expert Tips
 
-## 🚀 [Live Demo – Today 05 Mar 2025 Live Result](https://kolkataff.app) 🚀
+## 🚀 [Live Demo – Today 07 Mar 2025 Live Result](https://kolkataff.app) 🚀
 
 ![Kolkata FF Large](https://kolkataff.app/images/kolkata-ff-large.webp)
 
@@ -85,7 +85,7 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 ✅ **Community-Driven:** Learn from the best and share your own strategies.
 
 ## 📝 Demo
-🚀 **[Live Demo – Today 05 Mar 2025 Live Result](https://kolkataff.app) 🚀**
+🚀 **[Live Demo – Today 07 Mar 2025 Live Result](https://kolkataff.app) 🚀**
 
 ## 🤝 Contributing
 We welcome contributions from the community! If you'd like to contribute to the project, please follow these steps:
